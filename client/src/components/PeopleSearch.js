@@ -1,5 +1,4 @@
 import React from "react";
-import pic from "../components/avatar.png";
 import PersonAddOutlinedIcon from '@material-ui/icons/PersonAddOutlined';
 
 const SearchPeople = (props) => {
